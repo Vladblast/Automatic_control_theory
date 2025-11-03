@@ -67,7 +67,7 @@ $\mathrm{rank}[\lambda I - A \mid B] = n$
 
 Установка рекомендуемых пакетов:
 ```bash
-pip install jupyter numpy scipy sympy matplotlib control
+pip install jupyter numpy 
 ```
 
 ## Как запустить
